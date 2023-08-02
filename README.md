@@ -1,8 +1,5 @@
-# Decentralised-ticketing-system
-
 # Decentralized Event Ticketing Application
 
-![Project Logo](link_to_your_logo.png) <!-- Replace "link_to_your_logo.png" with the actual link to your project logo -->
 
 ## Table of Contents
 
@@ -14,7 +11,6 @@
   - [Installation](#installation)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -112,9 +108,9 @@ We welcome contributions from the community!
 
 For any inquiries or feedback, please reach out to us:
 
-- Email: your_email@example.com
-- Discord: YourUsername#1234
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
+Email: saishmirajkar0@gmail.com
+Discord: https://discord.com/users/saish7147
+Twitter: https://twitter.com/saishmirajkar1
+GitHub: https://github.com/saishmirajkar
 
 Thank you for using our Decentralized Event Ticketing Application! Enjoy secure and seamless event booking with blockchain technology. Happy ticketing! 🎟️🚀
