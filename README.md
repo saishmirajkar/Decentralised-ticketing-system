@@ -52,7 +52,7 @@ Follow the steps below to set up and run the application on your local machine.
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/saishmirajkar/Decentralised-ticketing-system
+git clone https://github.com/saishmirajkar/Decentralised-ticketing-system.git
 ```
 
 2. Navigate to the project directory:
